@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:background="#F3E9E9"
+    android:padding="16dp">
+
+
+    <ImageView
+        android:id="@+id/imgMakanan"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="@string/deskripsi_gambar_resep" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:layout_marginStart="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/carter_one"
+            android:text="@string/nama_resep"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_caption"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:fontFamily="@font/catamaran"
+            android:text="@string/makanan_enak_sehat_murah_meriah_mudah_dibuat_bkavosapvkop_bospaiosap_osaio_dksoap_dksaopvkosap_dksoapdk_iaosdpsa_dsaopw_dmwqopd_nwdiqodn_d_wdiqodn_iwqondiqow_udiqdj_iwqo_diqowd_jiqwo_ioq"
+            android:textColor="@color/colorGrey"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daftar Resep Makanan Khas Jawa</string>
+    <string name="deskripsi_gambar_resep">Gambar Resep</string>
+    <string name="cara_pembuatan">Cara pembuatan :</string>
+    <string name="bahan">Bahan :</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="detail_bahan">Detail Bahan</string>
+    <string name="cara_resep">cara Resep</string>
+    <string name="makanan_enak_sehat_murah_meriah_mudah_dibuat_bkavosapvkop_bospaiosap_osaio_dksoap_dksaopvkosap_dksoapdk_iaosdpsa_dsaopw_dmwqopd_nwdiqodn_d_wdiqodn_iwqondiqow_udiqdj_iwqo_diqowd_jiqwo_ioq">Makanan enak sehat murah meriah mudah dibuat bkavosapvkop bospaiosap osaio dksoap dksaopvkosap dksoapdk iaosdpsa dsaopw dmwqopd nwdiqodn d wdiqodn iwqondiqow udiqdj iwqo diqowd jiqwo ioq</string>
+    <string name="langkah_pembuatan">Langkah Pembuatan</string>
+</resources>
